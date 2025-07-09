@@ -60,7 +60,9 @@ In healthcare, post-discharge follow-up is critical to ensuring patient recovery
 - dbt for the modern data transformation layer
 - Streamlit for its simplicity in building quick, powerful UIs
 
+---
 
+## Demo
 
 <img width="1428" alt="Screenshot 2025-05-01 at 4 30 19 AM" src="https://github.com/user-attachments/assets/698c0541-7a57-4ce4-91e1-dc44f4f61ce7" />
 
