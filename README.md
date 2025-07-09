@@ -56,9 +56,8 @@ In healthcare, post-discharge follow-up is critical to ensuring patient recovery
 ---
 
 ## Acknowledgments
-- Synthea for synthetic patient data
-- dbt for the modern data transformation layer
-- Streamlit for its simplicity in building quick, powerful UIs
+#### Synthea for synthetic patient data
+
 
 ---
 
